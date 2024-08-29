@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Khin Wah Wah Soe Myint
+### Hi there 👋, my name is Khin Wah Wah Soe Myint (Wah)
 #### I am a STEM learner, recently graduated from UWA with the Master of Business Analytics. 
 I'm a dedicated data professional with a strong background in data analysis and a deep passion for transforming data into actionable insights.
 
@@ -10,7 +10,7 @@ I'm a dedicated data professional with a strong background in data analysis and 
 
 Skills: PHP/ HTML/ R/ Python/ SQL
 
-- 🔭 I’m currently working on this page. 
+- 🔭 You can reach out to me https://www.linkedin.com/in/khin-wah-wah-soe-myint/
 
 
 
