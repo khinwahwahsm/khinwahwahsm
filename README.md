@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋, my name is Khin Wah Wah Soe Myint
+#### I am a STEM learner, recently graduated from UWA with the Master of Business Analytics. 
+I'm a dedicated data professional with a strong background in data analysis and a deep passion for transforming data into actionable insights.
 
-<!--
-**khinwahwahsm/khinwahwahsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 I specialize in designing and developing Power BI dashboards, automating reporting processes, and analyzing data trends to support strategic decision-making. My experience has taught me the value of precision and clarity in presenting data, ensuring that insights are both meaningful and accessible to stakeholders.
 
-Here are some ideas to get you started:
+📊 I’m constantly seeking opportunities to grow and learn, and I’m excited about the possibility of furthering my career as a data analyst. I’m eager to continue using my analytical skills to drive business success and contribute to innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Join me on this journey as I delve deeper into the world of data analytics, combining my financial institution expertise with cutting-edge technology to make a lasting impact!
+
+Skills: PHP/ HTML/ R/ Python/ SQL
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
